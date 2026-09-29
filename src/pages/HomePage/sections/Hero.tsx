@@ -12,7 +12,7 @@ export default function HeroSection(): React.JSX.Element {
               <HeroSplitVerticalMarquee
           tag="Small business AI solutions"
           title="Your website, built. Your customers, answered."
-          description="Lurocraft designs clean, fast websites for small businesses, then adds an AI receptionist that answers questions, books appointments, and takes messages, day and night. Websites from $450, AI receptionists from $1,000, Fixed quote before any work starts."
+          description="Lurocraft designs clean, fast websites for small businesses, then adds an AI receptionist that answers questions, books appointments, and takes messages, day and night. Get a free example today."
           primaryButton={{
             text: "Book a call",
             href: "#contact",
