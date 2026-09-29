@@ -10,23 +10,12 @@ export default function AboutSection(): React.JSX.Element {
     <div id="about" data-section="about">
         <SectionErrorBoundary name="about">
               <TeamOverlayCards
-          tag="Meet the builder"
-          title="Run by Ben in Newmarket"
-          description="Four years of professional experience, focusing on one-person studio excellence."
-          members={[
-            {
-              name: "Ben",
-              role: "Founder & Developer",
-              imageSrc: "http://img.b2bpic.net/free-photo/covid-preventing-virus-health-healthcare-workers-quarantine-concept-surprised-excited-female_1258-92298.jpg",
-            },
-            {
-              name: "Lu",
-              role: "AI Receptionist",
-              imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-business-agenda_53876-33537.jpg",
-            },
-          ]}
-          textAnimation="slide-up"
-        />
+        tag="Meet the builder"
+        title="Run by Ben Levick"
+        description="Four years of professional experience, focusing on one-person studio excellence."
+        members={[{"role":"Founder & Developer","name":"Ben Levick","imageSrc":"http://img.b2bpic.net/free-photo/covid-preventing-virus-health-healthcare-workers-quarantine-concept-surprised-excited-female_1258-92298.jpg"},{"name":"Lu","imageSrc":"http://img.b2bpic.net/free-photo/flat-lay-business-agenda_53876-33537.jpg","role":"AI Receptionist"}]}
+        textAnimation="slide-up"
+      />
         </SectionErrorBoundary>
       </div>
   );
