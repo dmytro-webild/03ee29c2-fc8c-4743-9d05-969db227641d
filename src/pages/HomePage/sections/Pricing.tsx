@@ -16,13 +16,13 @@ export default function PricingSection(): React.JSX.Element {
           plans={[
             {
               tag: "Essentials",
-              price: "$450+",
-              period: "once + maintenance",
+              price: "$650",
+              period: "setup + monthly",
               features: [
                 "Responsive site",
                 "Modern design",
                 "SEO optimized",
-                "$60-$120/mo maintenance",
+                "$80-$120/mo maintenance",
               ],
               primaryButton: {
                 text: "Contact",
