@@ -60,7 +60,7 @@ const PricingInline = () => (
         <TextAnimation
           text={"Get a free example"}
           variant={"slide-up"}
-          gradientText={true}
+          gradientText={false}
           tag="h2"
           className="md:max-w-8/10 text-6xl 2xl:text-7xl leading-[1.15] font-semibold text-center text-balance"
         />
