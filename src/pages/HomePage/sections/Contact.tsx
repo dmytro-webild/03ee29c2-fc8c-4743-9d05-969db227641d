@@ -34,7 +34,7 @@ const ContactInline = () => {
                 className="text-4xl sm:text-5xl 2xl:text-6xl leading-[1.15] font-semibold text-center text-balance"
               />
 
-              <p className="text-base sm:text-lg text-accent max-w-xl text-balance">
+              <p className="text-base sm:text-lg text-sky-100 max-w-xl text-balance">
                 Have a project in mind or need expert advice? Reach out directly or book a call below to discuss your project.
               </p>
 
