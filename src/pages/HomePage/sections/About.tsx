@@ -48,7 +48,7 @@ const AboutInline = () => {
 
         <div className="w-full relative rounded-lg overflow-hidden card aspect-[16/9] max-h-[550px]">
           <ImageOrVideo
-            imageSrc={"https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1790952331496-gh68tu0j.jpg"}
+            imageSrc={"https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1790952626402-xr2eizwp.jpg"}
             className="w-full h-full object-cover object-center"
           />
         </div>
