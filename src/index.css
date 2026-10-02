@@ -17,15 +17,15 @@ body {
 
 :root {
   /* @colorThemes/lightTheme/grayNavyBlue */
-  --background: #FFFFFF;
-  --card: #FFFFFF;
-  --foreground: #09090B;
-  --primary-cta: #18181B;
-  --primary-cta-text: #FFFFFF;
-  --secondary-cta: #F4F4F5;
-  --secondary-cta-text: #18181B;
-  --accent: #18181B;
-  --background-accent: #F4F4F5;
+  --background: #f7f6f7;
+  --card: #ffffff;
+  --foreground: #250c0d;
+  --primary-cta: #b82b40;
+  --primary-cta-text: #f7f6f7;
+  --secondary-cta: #ffffff;
+  --secondary-cta-text: #250c0d;
+  --accent: #b90941;
+  --background-accent: #e8a8b6;
 
   /* @layout/border-radius/rounded */
   --radius: 0.5rem;
