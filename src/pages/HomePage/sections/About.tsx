@@ -42,7 +42,7 @@ const AboutInline = () => {
             variant={"slide-up"}
             gradientText={false}
             tag="p"
-            className="text-lg md:text-xl text-sky-300 text-balance max-w-2xl"
+            className="text-lg md:text-xl text-sky-100 text-balance max-w-2xl"
           />
         </div>
 
