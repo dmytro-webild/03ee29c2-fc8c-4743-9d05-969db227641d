@@ -7,7 +7,7 @@ export default function AboutSection(): React.JSX.Element {
   return (
     <div data-webild-section="about" data-section="about" id="about">
       <AboutMediaOverlay
-        imageSrc="http://img.b2bpic.net/free-photo/covid-preventing-virus-health-healthcare-workers-quarantine-concept-surprised-excited-female_1258-92298.jpg"
+        imageSrc="https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1790952174465-7tx3zee8.png"
         description="Four years of professional experience, focusing on one-person studio excellence."
         textAnimation="slide-up"
         title="Run by Ben Levick"
