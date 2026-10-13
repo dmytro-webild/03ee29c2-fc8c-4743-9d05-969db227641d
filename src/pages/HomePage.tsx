@@ -13,8 +13,7 @@ import PricingSection from './HomePage/sections/Pricing';
 import ProcessSection from './HomePage/sections/Process';
 import ContactSection from './HomePage/sections/Contact';
 
-
-import FaqSection from './HomePage/sections/Faq';export default function HomePage(): React.JSX.Element {
+export default function HomePage(): React.JSX.Element {
   return (
     <>
       <HeroSection />
@@ -29,7 +28,6 @@ import FaqSection from './HomePage/sections/Faq';export default function HomePag
 
       <ProcessSection />
 
-      <FaqSection />
       <ContactSection />
     </>
   );
