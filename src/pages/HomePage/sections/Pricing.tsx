@@ -24,7 +24,7 @@ const plans = [
     imageSrc: "http://img.b2bpic.net/free-photo/nurse-dentist-showing-green-screen-display-stomatology-senior-doctor-while-examining-tooth-pain-man-patient-sittinh-dental-chair_482257-4900.jpg"
   },
   {
-    tag: "Professional",
+    tag: "Receptionist",
     price: "Get an Estimate",
     period: "",
     features: [
