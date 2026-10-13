@@ -23,7 +23,7 @@ export default function ReceptionistSection(): React.JSX.Element {
             {
               title: "Book appointments",
               description: "Calendar integrated.",
-              imageSrc: "http://img.b2bpic.net/free-photo/male-administrator-uses-green-screen-tablet-explore-new-growth-strategy_482257-126533.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1791855090107-w75vsijh.png",
               href: "#",
             },
             {
