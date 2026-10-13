@@ -32,7 +32,7 @@ export default function ServicesSection(): React.JSX.Element {
             },
           ]}
           textAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/graphic-digital-tablet-stationeries-white-background_23-2147880446.jpg"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1791854355440-taynop55.png"
         />
         </SectionErrorBoundary>
       </div>
