@@ -9,7 +9,7 @@ import ScrollReveal from "@/components/ui/ScrollReveal";
 const plans = [
   {
     tag: "Website",
-    price: "Get an Estimate",
+    price: "",
     period: "",
     features: [
       "Responsive site",
@@ -25,7 +25,7 @@ const plans = [
   },
   {
     tag: "Receptionist",
-    price: "Get an Estimate",
+    price: "",
     period: "",
     features: [
       "AI Receptionist",
