@@ -88,7 +88,7 @@ const HeroInline = () => {
             />
 
             <TextAnimation
-              text={"Lurocraft designs clean, fast websites for small businesses, then adds an AI receptionist that answers questions, books appointments, and takes messages, day and night. Get a free example today."}
+              text={"Lurocraft designs clean, fast websites for small businesses, then adds an AI receptionist that answers questions, books appointments, and takes messages, day and night. Get a free estimate today."}
               variant={"fade-blur"}
               gradientText={false}
               tag="p"

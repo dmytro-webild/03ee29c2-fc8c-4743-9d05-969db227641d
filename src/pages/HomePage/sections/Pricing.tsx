@@ -9,7 +9,7 @@ import ScrollReveal from "@/components/ui/ScrollReveal";
 const plans = [
   {
     tag: "Essentials",
-    price: "",
+    price: "Get an Estimate",
     period: "",
     features: [
       "Responsive site",
@@ -18,14 +18,14 @@ const plans = [
       "Maintenance included"
     ],
     primaryButton: {
-      text: "Get a free example",
+      text: "Get an estimate",
       href: "#contact"
     },
     imageSrc: "http://img.b2bpic.net/free-photo/nurse-dentist-showing-green-screen-display-stomatology-senior-doctor-while-examining-tooth-pain-man-patient-sittinh-dental-chair_482257-4900.jpg"
   },
   {
     tag: "Professional",
-    price: "",
+    price: "Get an Estimate",
     period: "",
     features: [
       "AI Receptionist",
@@ -34,7 +34,7 @@ const plans = [
       "Full management"
     ],
     primaryButton: {
-      text: "Get a free example",
+      text: "Get an estimate",
       href: "#contact"
     },
     imageSrc: "http://img.b2bpic.net/free-photo/person-using-tablet_53876-41005.jpg"
@@ -58,7 +58,7 @@ const PricingInline = () => (
         </div>
 
         <TextAnimation
-          text={"Get a free example"}
+          text={"Get an estimate"}
           variant={"slide-up"}
           gradientText={false}
           tag="h2"
@@ -66,7 +66,7 @@ const PricingInline = () => (
         />
 
         <TextAnimation
-          text={"Get a free example today with no obligation."}
+          text={"Get a free estimate today with no obligation."}
           variant={"slide-up"}
           gradientText={false}
           tag="p"
