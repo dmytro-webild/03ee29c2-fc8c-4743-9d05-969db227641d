@@ -38,7 +38,7 @@ const rightItems = [
     imageSrc: "http://img.b2bpic.net/free-photo/still-life-graphic-design-office_23-2151345419.jpg"
   },
   {
-    imageSrc: "http://img.b2bpic.net/free-photo/3d-character-emerging-from-smartphone_23-2151336609.jpg"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792081068362-ihs0lis7.jpg"
   },
   {
     imageSrc: "http://img.b2bpic.net/free-photo/close-up-hands-typing-keyboard_23-2148868100.jpg"
