@@ -47,7 +47,7 @@ const rightItems = [
     imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792080992841-jz0f9heb.webp"
   },
   {
-    imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-tasty-ingredient-healthy-breakfast_23-2148101717.jpg"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792088585535-ytnywj8a.png"
   },
   {
     imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792087657178-ophht9ye.png"
