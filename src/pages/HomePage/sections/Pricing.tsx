@@ -37,7 +37,7 @@ const plans = [
       text: "Get an estimate",
       href: "#contact"
     },
-    imageSrc: "http://img.b2bpic.net/free-photo/person-using-tablet_53876-41005.jpg"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792088911622-qswoqikz.png"
   }
 ];
 
