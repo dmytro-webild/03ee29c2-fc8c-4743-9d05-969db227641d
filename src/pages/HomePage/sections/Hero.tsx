@@ -21,7 +21,7 @@ const leftItems = [
     imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-intelligent-software-placed-table-kitchen-with-nobody_482257-8724.jpg"
   },
   {
-    imageSrc: "http://img.b2bpic.net/free-photo/still-life-minimalist-lifestyle_23-2149743918.jpg"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792087067625-b7lvoat9.png"
   },
   {
     imageSrc: "http://img.b2bpic.net/free-photo/representation-user-experience-interface-design_23-2150169854.jpg"
