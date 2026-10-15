@@ -17,7 +17,7 @@ export default function WorkSection(): React.JSX.Element {
             {
               title: "Maple Dental",
               description: "Family dental clinic with Figtree design.",
-              imageSrc: "http://img.b2bpic.net/free-photo/asian-nurse-patient-looking-laptop-with-greenscreen-display-hospital-reception-lobby-isolated-copyspace-template-with-blank-chroma-key-mockup-background-waiting-area_482257-48908.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792082815411-dx8ax1v3.png",
             },
             {
               title: "Northbound Heating",
