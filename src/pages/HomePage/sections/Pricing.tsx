@@ -21,7 +21,7 @@ const plans = [
       text: "Get an estimate",
       href: "#contact"
     },
-    imageSrc: "http://img.b2bpic.net/free-photo/nurse-dentist-showing-green-screen-display-stomatology-senior-doctor-while-examining-tooth-pain-man-patient-sittinh-dental-chair_482257-4900.jpg"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792086323348-c9qxvnzt.png"
   },
   {
     tag: "Receptionist",
