@@ -21,7 +21,7 @@ const plans = [
       text: "Get an estimate",
       href: "#contact"
     },
-    imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792086323348-c9qxvnzt.png"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792089113177-b7remzsa.png"
   },
   {
     tag: "Receptionist",
