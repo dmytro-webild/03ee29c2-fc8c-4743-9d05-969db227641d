@@ -80,9 +80,7 @@ const HeroInline = () => {
             </div>
 
             <TextAnimation
-              text={"Never Miss a Customer. Never Miss an Opportunity.
-
-"}
+              text={"Your website, built. Your customers, answered."}
               variant={"fade-blur"}
               gradientText={false}
               tag="h1"
@@ -90,7 +88,7 @@ const HeroInline = () => {
             />
 
             <TextAnimation
-              text={"At LuroCraft, we help businesses grow with AI-powered receptionists that answer calls, book appointments, and capture leads 24/7. We also design modern, high-performance websites tailored to your business, helping you establish credibility, attract new customers, and stand out from the competition."}
+              text={"Lurocraft creates AI receptionists that answer questions, book appointments, and take messages, day and night. We design clean, fast websites for businesses. Get a free estimate today."}
               variant={"fade-blur"}
               gradientText={false}
               tag="p"
