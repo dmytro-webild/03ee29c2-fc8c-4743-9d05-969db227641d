@@ -27,7 +27,7 @@ const leftItems = [
     imageSrc: "http://img.b2bpic.net/free-photo/representation-user-experience-interface-design_23-2150169854.jpg"
   },
   {
-    imageSrc: "http://img.b2bpic.net/free-photo/african-american-therapist-man-holding-mock-up-green-screen-chroma-key-tablet-with-isolated-display-horizontal-position-while-analyzing-sickness-expertise-hospital-office-medicine-concept_482257-29751.jpg"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792087893080-smeekzgd.png"
   },
   {
     imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792087216709-pn0l2nzo.png"
