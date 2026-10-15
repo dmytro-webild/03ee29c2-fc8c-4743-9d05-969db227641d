@@ -15,7 +15,7 @@ const secondaryButton = {
 };
 const leftItems = [
   {
-    imageSrc: "http://img.b2bpic.net/free-photo/woman-assistant-holding-horizontal-green-screen-tablet-office-medical-nurse-using-isolated-copy-space-template-with-chroma-key-mockup-blank-background-gadget-display-checkup_482257-41832.jpg"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792088494980-lvg67qp9.png"
   },
   {
     imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-intelligent-software-placed-table-kitchen-with-nobody_482257-8724.jpg"
