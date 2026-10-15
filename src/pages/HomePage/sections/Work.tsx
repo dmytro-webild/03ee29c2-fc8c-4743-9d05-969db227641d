@@ -22,7 +22,7 @@ export default function WorkSection(): React.JSX.Element {
             {
               title: "Northbound Heating",
               description: "HVAC experts with Archivo typography.",
-              imageSrc: "http://img.b2bpic.net/free-photo/contemporary-laptop-placework-construction-worker_329181-3495.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792082906184-telyfxng.png",
             },
             {
               title: "Olive & Ash",
