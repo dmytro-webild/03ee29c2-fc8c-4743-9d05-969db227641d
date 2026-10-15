@@ -88,7 +88,7 @@ const HeroInline = () => {
             />
 
             <TextAnimation
-              text={"Lurocraft designs clean, fast websites for small businesses, then adds an AI receptionist that answers questions, books appointments, and takes messages, day and night. Get a free estimate today."}
+              text={"At LuroCraft, we specialize in AI-powered receptionists that professionally handle customer inquiries, schedule appointments, and capture leads around the clock. We also design modern, high-performance websites tailored to your business, helping you establish credibility, attract new customers, and stand out from the competition."}
               variant={"fade-blur"}
               gradientText={false}
               tag="p"
