@@ -50,7 +50,7 @@ const rightItems = [
     imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-tasty-ingredient-healthy-breakfast_23-2148101717.jpg"
   },
   {
-    imageSrc: "http://img.b2bpic.net/free-photo/business-woman-working-overtime-project_482257-74600.jpg"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3K0aa19UHoT6DytXIGbvco08Y93/uploaded-1792087657178-ophht9ye.png"
   }
 ];
 
